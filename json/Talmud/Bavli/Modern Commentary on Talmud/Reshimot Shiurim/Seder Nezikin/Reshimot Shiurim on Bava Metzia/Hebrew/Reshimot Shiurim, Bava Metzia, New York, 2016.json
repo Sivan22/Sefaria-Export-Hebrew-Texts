@@ -7,7 +7,10 @@
     "license": "CC-BY-NC",
     "versionTitleInHebrew": "רשימות שיעורים על מסכת בבא מציעא, תשע\"ו",
     "actualLanguage": "he",
-    "isBaseText": true,
+    "languageFamilyName": "hebrew",
+    "isSource": true,
+    "isPrimary": true,
+    "direction": "rtl",
     "heTitle": "רשימות שיעורים על בבא מציעא",
     "categories": [
         "Talmud",

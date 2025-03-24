@@ -5,6 +5,10 @@
     "versionTitle": "Reshimot Shiurim, Kiddushin, New York, 2022",
     "versionNotes": "",
     "actualLanguage": "he",
+    "languageFamilyName": "hebrew",
+    "isSource": true,
+    "isPrimary": true,
+    "direction": "rtl",
     "heTitle": "רשימות שיעורים על קידושין",
     "categories": [
         "Talmud",

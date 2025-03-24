@@ -1,13 +1,16 @@
 {
     "language": "he",
     "title": "Beit Meir on Shulchan Arukh, Even HaEzer",
-    "versionSource": "http://primo.nli.org.il/primo_library/libweb/action/dlDisplay.do?vid=NLI&docId=NNL_ALEPH002097680",
+    "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH002097680",
     "versionTitle": "Apei Ravrevei: Shulchan Aruch Even HaEzer, Lemberg, 1886",
     "status": "locked",
     "license": "Public Domain",
     "versionTitleInHebrew": "אפי רברבי: שלחן ערוך אבן העזר, למברג תרמ\"ו",
     "actualLanguage": "he",
-    "isBaseText": true,
+    "languageFamilyName": "hebrew",
+    "isSource": true,
+    "isPrimary": true,
+    "direction": "rtl",
     "heTitle": "בית מאיר על שולחן ערוך אבן העזר",
     "categories": [
         "Halakhah",

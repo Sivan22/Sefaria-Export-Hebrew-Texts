@@ -8,7 +8,10 @@
     "purchaseInformationImage": "http://www.sefer.org.il/UploadImages/000687/6032796.jpg",
     "purchaseInformationURL": "http://www.sefer.org.il/Product/36156934/%D7%91%D7%99%D7%AA-%D7%99%D7%A2%D7%A7%D7%91-%D7%90%D7%99%D7%96%D7%91%D7%99%D7%A6%D7%90-%D7%A8%D7%90%D7%93%D7%96%D7%99%D7%9F---%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%91-%D7%9B%D7%A8%D7%9B%D7%99%D7%9D-",
     "actualLanguage": "he",
-    "isBaseText": true,
+    "languageFamilyName": "hebrew",
+    "isSource": true,
+    "isPrimary": true,
+    "direction": "rtl",
     "heTitle": "בית יעקב על התורה",
     "categories": [
         "Chasidut",
